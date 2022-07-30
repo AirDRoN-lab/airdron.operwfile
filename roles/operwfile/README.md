@@ -1,7 +1,5 @@
-Role Name
+Role Name - operwfile
 =========
-
-A brief description of the role goes here.
 
 Requirements
 ------------
